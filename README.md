@@ -23,6 +23,8 @@ Como perfil **Trainee**, el desarrollo de este proyecto implicó la resolución 
 - **Metodología de Aprendizaje:** El proyecto fue ejecutado bajo la mentoría técnica de inteligencia artificial, asegurando la adopción de estándares industriales y la transparencia total en la ejecución de comandos.
 
 ### 📊 Evidencias de Laboratorio
+![Evidencia Forense](analisis_hashes_forense.png)
+
 *(Consultar archivos en la carpeta `/img`)*
 1. **Initial Baseline:** Registro del escaneo de las 323,031 entradas.
 2. **Integrity Alert:** Captura del reporte detallado confirmando la detección del archivo intruso (`Added entries: 1`).
