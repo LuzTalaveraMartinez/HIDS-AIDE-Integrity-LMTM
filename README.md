@@ -28,7 +28,7 @@ Como perfil **Trainee**, el desarrollo de este proyecto implicó la resolución 
 ![Evidencia Forense](analisis_hashes_forense.png)
 
 Figura 2: Resumen ejecutivo de auditoría y validación de inyección de archivos en directorios críticos.
-![Resumen de Auditoría](lmtm_aide_summary_detection.png)
+![Resumen de Auditoría](lmtm_aide_summary_detection.png.jpg)
 
 
 *(Consultar archivos en la carpeta `/img`)*
