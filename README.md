@@ -23,7 +23,10 @@ Como perfil **Trainee**, el desarrollo de este proyecto implicó la resolución 
 - **Metodología de Aprendizaje:** El proyecto fue ejecutado bajo la mentoría técnica de inteligencia artificial, asegurando la adopción de estándares industriales y la transparencia total en la ejecución de comandos.
 
 ### 📊 Evidencias de Laboratorio
+
+**Figura 1:** *Reporte de hashes criptográficos y tiempos de ejecución del escaneo de integridad.*
 ![Evidencia Forense](analisis_hashes_forense.png)
+
 
 *(Consultar archivos en la carpeta `/img`)*
 1. **Initial Baseline:** Registro del escaneo de las 323,031 entradas.
