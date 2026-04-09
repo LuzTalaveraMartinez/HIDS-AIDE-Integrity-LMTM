@@ -27,7 +27,7 @@ Como perfil **Trainee**, el desarrollo de este proyecto implicó la resolución 
 **Figura 1:** *Reporte de hashes criptográficos y tiempos de ejecución del escaneo de integridad.*
 ![Evidencia Forense](analisis_hashes_forense.png)
 
-Figura 2: Resumen ejecutivo de auditoría y validación de inyección de archivos en directorios críticos.
+**Figura 2:** *Resumen ejecutivo de auditoría y validación de inyección de archivos en directorios críticos.*
 ![Resumen de Auditoría](lmtm_aide_summary_detection.png.jpg)
 
 
